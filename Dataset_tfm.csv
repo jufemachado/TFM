@@ -1,4 +1,4 @@
-Country;Period;Region;Income_Group; GDP_per_adult ; Wealth_per_adult  ;Population;Exports;Exports_Ratio;External_Debt;Main_export;Gini;Average_Wage;Exp_Education;Democracy_level;Informal_economy
+Country;Period;Region;Income_Group; GDP_per_adult ; Wealth_per_adult  ;Population;Exports;Exports_Ratio;External_Debt;Main_export;Gini;Average_Wage;Exp_Education;Democracy_level;Informal_economy
 Afghanistan;2012;Asia-Pacific;Low-income;599;;14601059;11010439.8;2.11;41;Gold;41;380;2.604199886;2.48;
 Afghanistan;2013;Asia-Pacific;Low-income;627;;14748545;11849016.3;2.55;39;Gold;41;380;3.454459906;2.48;
 Afghanistan;2014;Asia-Pacific;Low-income;1484;;14897520;10045505.2;2.77;49;Gold;41;380;3.695219994;2.77;
@@ -215,7 +215,7 @@ Bermuda;2017;North-America;High-income;;374869;53352;2123068.6;;;Boats;;125210;1
 Bermuda;2018;North-America;High-income;;391690;53614;1632823.3;;;Boats;;125210;1.93599999;;
 Bermuda;2019;North-America;High-income;;417694;55064;1251365.3;;;Boats;;125210;1.927000046;;
 Bermuda;2020;North-America;High-income;148053;613047;47305;2610504.2;;;Boats;;125210;1.889999986;;
-Bermuda;2021;North-America ;High-income ;189744;;;2317147;;;Boats;;125210;1.88499999;;
+Bermuda;2021;North-America;High-income ;189744;;;2317147;;;Boats;;125210;1.88499999;;
 Bhutan;2012;Asia-Pacific;Low-income;2202;;452969;317579.1;39.647;1601;Ferroalloys;38.81;;5.722750187;4.65;22.83122063
 Bhutan;2013;Asia-Pacific;Low-income;2411;;457544;267725.3;41.43;1903;Ferroalloys;37.44;;5.722750187;4.82;22.83122063
 Bhutan;2014;Asia-Pacific;Low-income;4323;;462166;265790.3;37.452;1896;Ferroalloys;37.44;;6.04489994;4.87;22.83122063
@@ -337,7 +337,7 @@ Canada;2017;North-America;High-income;54716;259271;28568563;420618510.3;31.454;3
 Canada;2018;North-America;High-income;59564;288263;28859063;452398817.4;32.325;34999;Petroleum;32.51;53310;4.888979912;9.15;13.89408302
 Canada;2019;North-America;High-income;59212;294255;29134594;448583368.2;32.353;36049;Petroleum;31.75;53310;4.772930145;9.22;13.89408302
 Canada;2020;North-America;High-income;53616;332323;29934732;405577305;29.474;44643;Petroleum;31.75;53310;4.887949944;9.24;13.89408302
-Canada;2021;North-America ;High-income ;64188;409297;30203007;485700656.5;31.216;49581;Petroleum;31.75;53310;4.594006062;8.87;13.89408302
+Canada;2021;North-America;High-income ;64188;409297;30203007;485700656.5;31.216;49581;Petroleum;31.75;53310;4.594006062;8.87;13.89408302
 Cape Verde;2012;Africa;Lower-middle-income;3671;15041;267860;725626;37.463;2401;Fish;42.38;2508;5.397999763;7.92;29.0043087
 Cape Verde;2013;Africa;Lower-middle-income;3792;16313;270566;757047.7;37.517;2745;Fish;42.38;2508;4.561570168;7.92;29.0043087
 Cape Verde;2014;Africa;Lower-middle-income;7178;18295;273299;709984.3;37.248;3085;Fish;42.38;2508;4.521349907;7.81;29.0043087
@@ -741,7 +741,7 @@ Greenland;2017;North-America;High-income;50765.75;374869;48017;736142.1;40.692;;
 Greenland;2018;North-America;High-income;54545.14;391690;48508;805864.6;44.455;;;;;;;
 Greenland;2019;North-America;High-income;53309.2;417694;50276;1020432.2;41.043;;;;;;;
 Greenland;2020;Europe;High-income;67259;207714;43329;797257.5;35.952;;;;;;;
-Greenland;2021;North-America ;High-income ;83833;;;948908.1;35.436;;;;;;;
+Greenland;2021;North-America;High-income ;83833;;;948908.1;35.436;;;;;;;
 Grenada;2012;Latin-America;Upper-middle-income;8043;13864;64791;226571.9;4.33;5902;Fish;43.82;;5.072000027;10;
 Grenada;2013;Latin-America;Upper-middle-income;8391;14473;65446;265984.4;4.37;6197;Fish;43.82;;;10;
 Grenada;2014;Latin-America;Upper-middle-income;13697;15127;66107;277813.8;4.06;6249;Fish;43.82;;4.478000164;10;
@@ -2020,7 +2020,7 @@ United States;2017;North-America;High-income;78483;388585;240771002;2199102948;1
 United States;2018;North-America;High-income;81425;403974;242971082;2393131651;12.361;57106;Petroleum;41.41;76770;4.928890228;7.96;7.953125
 United States;2019;North-America;High-income;85319;432365;245140102;2379104890;11.872;63213;Petroleum;41.54;76770;4.987279892;7.96;7.953125
 United States;2020;North-America;High-income;83265;505421;249969827;2308447302;10.209;74360;Petroleum;39.68;76770;5.435440063;7.92;7.953125
-United States;2021;North-America ;High-income ;91340;579051;251779204;2827816680;10.937;74943;Petroleum;39.75;76770;5.590000153;7.85;7.953125
+United States;2021;North-America;High-income ;91340;579051;251779204;2827816680;10.937;74943;Petroleum;39.75;76770;5.590000153;7.85;7.953125
 Uruguay;2012;Latin-America;Upper-middle-income;14679;44986;2368309;13154805.2;25.92;6279;Beef;39.9;7812;4.093999863;8.17;40.63557816
 Uruguay;2013;Latin-America;Upper-middle-income;15904;47002;2392231;13658357.5;23.353;6813;Beef;40.45;7812;4.238920212;8.17;40.63557816
 Uruguay;2014;Latin-America;Upper-middle-income;23682;43867;2416395;14057849;23.543;6851;Beef;40.11;7812;4.267350197;8.17;40.63557816
