@@ -1,4 +1,4 @@
-Country;Period;Region;Income_Group; GDP_per_adult; Wealth_per_adult;Population;Exports;Exports_Ratio;External_Debt;Main_export;Class;Gini;Average_Wage;Exp_Education;Democracy_level;Informal_economy
+Country;Period;Region;Income_Group;GDP_per_adult;Wealth_per_adult;Population;Exports;Exports_Ratio;External_Debt;Main_export;Class;Gini;Average_Wage;Exp_Education;Democracy_level;Informal_economy
 Afghanistan;2012;Asia-Pacific;Low-income;599;;14601059;11010439.8;2.11;41;Gold;Mining;41;380;2.604.199.886;2.48;
 Afghanistan;2013;Asia-Pacific;Low-income;627;;14748545;11849016.3;2.55;39;Gold;Mining;41;380;3.454.459.906;2.48;
 Afghanistan;2014;Asia-Pacific;Low-income;1484;;14897520;10045505.2;2.77;49;Gold;Mining;41;380;3.695.219.994;2.77;
